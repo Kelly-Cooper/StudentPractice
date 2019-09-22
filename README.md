@@ -1,2 +1,2 @@
 # StudentPractice
-Building Student assignments for CSM Project Management Class
+Student assignments for CSM Project Management Class
